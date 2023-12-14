@@ -1,0 +1,105 @@
+{
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+  
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #26cdc8;
+}
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+        body {
+            font-family: 'Helvetica', sans-serif;
+            background-color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #ffffff;
+            color: #3f1010;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        footer {
+          font-family: verdana;
+          background-color: #bedfac;
+          color: rgb(0, 0, 0);
+          text-align: center;
+          padding: 1em;
+          position: absolute;
+          bottom: 10;
+          width: 1487px;
+      }
+
+
+        img {
+            max-width: 50%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        h1, h2 {
+            color: #1a1a1a;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        figure {
+          border: 1px #cccccc solid;
+          padding: 4px;
+          margin: auto;
+        }
+        
+        figcaption {
+          background-color: rgb(63, 130, 202);
+          color: white;
+          font-style: italic;
+          padding: 1px;
+          width: 425px;
+          text-align: center;
+        }
+
+        table, th, td {
+          border: 2px solid rgb(117, 102, 122);
+          border-collapse: collapse;
+        }
+        th, td {
+          padding: 15px;
